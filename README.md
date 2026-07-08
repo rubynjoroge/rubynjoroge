@@ -74,8 +74,8 @@ Engineering and cloud:
 * GIAC Certified Incident Handler, GCIH
 * GIAC Security Essentials Certification, GSEC
 * GIAC Foundational Cybersecurity Technologies, GFACT
-* ISO/IEC 27001:2022 Lead Auditor coursework in progress
-* ISO/IEC 27701:2025 Lead Auditor coursework completed; final exam pending
+* ISO/IEC 27001:2022 Lead Auditor, coursework in progress
+* ISO/IEC 27701:2025 Lead Auditor, coursework completed; final exam pending
 * AWS Cloud Practitioner Essentials
 * TCM Security GRC Analyst Master Class
 
