@@ -35,7 +35,7 @@ Current portfolio themes include:
 
 | Project                                                                                         | What it demonstrates                                                                                                                                                                          | Technologies                   | Status    |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | --------- |
-| [Compliant S3 Resource](https://github.com/rubynjoroge/grc-week1-compliant-s3-resource) | Terraform-based AWS S3 control implementation with encryption, public access blocking, versioning, access logging, required tags, verification scripting, and machine-readable plan evidence. | Terraform, AWS, S3, Bash, JSON | Published |
+| [Compliant S3 Resource](https://github.com/rubynjoroge/grc-compliant-s3-resource) | Terraform-based AWS S3 control implementation with encryption, public access blocking, versioning, access logging, required tags, verification scripting, and machine-readable plan evidence. | Terraform, AWS, S3, Bash, JSON | Published |
 
 ## How I Approach GRC Engineering
 
